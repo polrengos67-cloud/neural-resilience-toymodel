@@ -1,0 +1,21 @@
+# examples/run_log.txt
+
+Run Log: Experiment on [Date: YYYY-MM-DD, Time: HH:MM:SS]
+---------------------------------------------------------
+Parameters:
+- Number of nodes: 100
+- Connection probability: 0.05
+- Time steps: 100
+
+Metrics:
+- Average state: 0.52
+- State variance: 0.03
+- Number of nodes: 100
+- Number of edges: 250
+- Average clustering: 0.04
+
+Notes:
+- Visualization generated and saved as "experiment_plot.png".
+
+End of log.
+---------------------------------------------------------
