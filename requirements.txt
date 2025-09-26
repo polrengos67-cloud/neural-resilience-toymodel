@@ -1,0 +1,9 @@
+# requirements.txt
+
+numpy
+scipy
+matplotlib
+networkx
+numba
+jupyter
+pytest
